@@ -1,5 +1,5 @@
 ## Opa eu sou Anthony Gianni, Programador e entusiasta de tecnologia!
-<div align="center">
+<div align="left">
   <a href="https://github.com/anthonygianni72">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthonygianni72&show_icons=true&theme=cobalt&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygianni72&layout=compact&langs_count=7&theme=cobalt"/>
@@ -15,8 +15,9 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/wSbf3gB/px-Art-1-removebg-preview.png?width=676&height=676">
 </div>
   
- 
+ <a>
  <p>
+   <br/>
 <div> 
 
   <a href = "mailto:anthonygianni72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
